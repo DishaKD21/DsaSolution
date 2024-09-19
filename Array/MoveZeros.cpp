@@ -1,4 +1,5 @@
 //move zeros
+//take two pointers both at the begining and move them if zero then swap
 class Solution{
 public:
 void moveZeroes(vector<int>& nums){
