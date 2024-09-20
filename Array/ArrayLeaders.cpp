@@ -1,6 +1,6 @@
 //Array leaders 
+//
 class Solution {
-
   public:
     vector<int> leaders(int n, int arr[]) {
       vector<int> ans;
