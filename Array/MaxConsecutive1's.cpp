@@ -1,4 +1,5 @@
 //max consecutive 1's
+//
 class Solution {
 public:
     int findMaxConsecutiveOnes(vector<int>& nums) {
